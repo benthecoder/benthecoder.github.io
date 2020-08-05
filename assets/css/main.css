@@ -3832,7 +3832,7 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight.style3 {
-				background-color: #0D19A3;
+				background-color: #0077b6;
 			}
 
 				.wrapper.spotlight.style3:before, .wrapper.spotlight.style3:after {
@@ -3840,11 +3840,11 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style3:before {
-					box-shadow: inset 0 -1px 0 0 #0D19A3, 0 1px 0 0 #0D19A3;
+					box-shadow: inset 0 -1px 0 0 #0077b6, 0 1px 0 0 #0077b6;
 				}
 
 				.wrapper.spotlight.style3:after {
-					box-shadow: inset 0 -1px 0 0 #0D19A3, 0 1px 0 0 #0D19A3;
+					box-shadow: inset 0 -1px 0 0 #0077b6, 0 1px 0 0 #0077b6;
 				}
 
 			.wrapper.spotlight.style4 {
