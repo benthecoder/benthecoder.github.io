@@ -3005,7 +3005,7 @@ input, select, textarea {
 
 		.features article {
 			padding: 1.75em 1.75em 0.1em 1.75em ;
-			background-color: #bd4343;
+			background-color: #3146bd;
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(50% - 1.5em);
@@ -3686,19 +3686,19 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #bd4343;
+			background-color: #3146bd;
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23bd4343%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%233146bd%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style2:before {
-				box-shadow: inset 0 -1px 0 0 #bd4343, 0 1px 0 0 #bd4343;
+				box-shadow: inset 0 -1px 0 0 #3146bd, 0 1px 0 0 #3146bd;
 			}
 
 			.wrapper.style2:after {
-				box-shadow: inset 0 -1px 0 0 #bd4343, 0 1px 0 0 #bd4343;
+				box-shadow: inset 0 -1px 0 0 #3146bd, 0 1px 0 0 #3146bd;
 			}
 
 		.wrapper.style3 {
