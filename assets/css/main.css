@@ -3002,7 +3002,7 @@ input, select, textarea {
 
 		.features article {
 			padding: 1.75em 1.75em 0.1em 1.75em ;
-			background-color: #feeafa;
+			background-color: #2d00f7 ;
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(50% - 1.5em);
@@ -3675,7 +3675,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #feeafa;
+			background-color: #2d00f7 ;
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
@@ -3683,15 +3683,15 @@ input, select, textarea {
 			}
 
 			.wrapper.style2:before {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 			.wrapper.style2:after {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 		.wrapper.style3 {
-			background-color: #feeafa;
+			background-color: #2d00f7 ;
 		}
 
 			.wrapper.style3:before, .wrapper.style3:after {
@@ -3699,15 +3699,15 @@ input, select, textarea {
 			}
 
 			.wrapper.style3:before {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 			.wrapper.style3:after {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 		.wrapper.style4 {
-			background-color: #feeafa;
+			background-color: #2d00f7 ;
 		}
 
 			.wrapper.style4:before, .wrapper.style4:after {
@@ -3715,43 +3715,43 @@ input, select, textarea {
 			}
 
 			.wrapper.style4:before {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 			.wrapper.style4:after {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 		.wrapper.style5 {
-			background-color: #feeafa;
+			background-color: #2d00f7 ;
 		}
 
 			.wrapper.style5:before, .wrapper.style5:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23feeafa%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232d00f7 %3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style5:before {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 			.wrapper.style5:after {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 		.wrapper.style6 {
-			background-color: #feeafa;
+			background-color: #2d00f7 ;
 		}
 
 			.wrapper.style6:before, .wrapper.style6:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23feeafa%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232d00f7 %3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style6:before {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 			.wrapper.style6:after {
-				box-shadow: inset 0 -1px 0 0 #feeafa, 0 1px 0 0 #feeafa;
+				box-shadow: inset 0 -1px 0 0 #2d00f7 , 0 1px 0 0 #2d00f7 ;
 			}
 
 		.wrapper.spotlight {
