@@ -19,10 +19,18 @@
     {% for repo in site.github.public_repositories limit:28 %}
  
         {% if repo.fork != true %}
-            <li class="repo">
-               
-                <a href="{{ repo.homepage }}">{{ repo.name }}</a>
-             
+            <li class="repo repo--{{ repo.language | downcase }}">
+                <svg class="icon">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#{{ repo.language | downcase }}"></use>
+                </svg>
+                <h3><a href="{{ repo.homepage }}">{{ repo.name }}</a></h3>
+                
+                <p>{{ repo.description }}</p>
+                <aside class="details">
+                    <span>Stars {{ repo.stargazer_count }}</span>
+
+                    <span>Forks {{ repo.forks_count }}</span>
+                </aside>
             </li>
         {% endif %}
  
